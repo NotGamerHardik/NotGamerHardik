@@ -1,0 +1,2 @@
+    {"ip":"BoyWithMagic651gpaC.aternos.me:57691.me","name":"MagicSMP","port":"57691"}
+    
